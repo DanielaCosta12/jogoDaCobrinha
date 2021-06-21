@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(245, 91, 245);
+    color:rgb(13, 13, 14);
+    font: italic bold 20px/30px Georgia, serif; 
+    
+}
